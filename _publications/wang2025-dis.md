@@ -9,6 +9,7 @@ published_in: Proceedings of the 2025 ACM Designing Interactive Systems Conferen
 venue: DIS '25
 doi: https://doi.org/10.1145/3715336.3735787
 arxiv: https://arxiv.org/abs/2505.18112
+pdf: https://yuqiwang1717.github.io/files/wang2025-dis.pdf
 highlight: true
 award: "**🏅 DIS 2025 Best Paper Honourable Mention (Top 5%)**"
 ---
