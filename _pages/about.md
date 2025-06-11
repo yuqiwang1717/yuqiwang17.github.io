@@ -16,7 +16,4 @@ Our recent paper, *From Temporal to Spatial: Designing Spatialized Interactions 
 
 You can find my [CV here](files/CV_YuqiWang.pdf).
 
-**Links**  
-📧 [Email](mailto:yuqiw.wang@mail.utoronto.ca)  
-💻 [GitHub](https://github.com/yuqiwang1717)  
-🧾 [LinkedIn]([https://www.linkedin.com/in/yuqi-wang](https://www.linkedin.com/in/yuqi-wang-2a319b96))  
+
