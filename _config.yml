@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yuqi pic.jpg"
   name             : "Yuqi Wang"
   pronouns         : "she/her"  
   bio              : "I never lose. I either win or learn."
   location         : "Earth"
-  employer         : "University of Toronto; Inspirit Learning."
+  employer         : "University of Toronto // Inspirit Learning."
   uri              : # URL
   email            : "yuqiw.wang@mail.utoronto" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yZpg_qBPM7IF1jB7bR32qHv_hQgadTQmqNDYqwL98IlPz3rQky49ZA6LYEm5cy2eI1x0G6fBeyCe-ab7gfbNvHCXluc1G-PgjPxMg&user=IJRl1jEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-8323-9800"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
