@@ -7,7 +7,6 @@ author_profile: true
 **Yuqi Wang**  
 _PhD Student in Curriculum and Pedagogy, Ontario Institute for Studies in Education, University of Toronto_
 
-![Yuqi Wang](images/Yuqi_pic.jpg)
 
 Hi, I’m Yuqi Wang, a second-year (soon third) PhD student in the Department of Curriculum, Teaching, and Learning at the University of Toronto. I have an interdisciplinary background in engineering, design, and education. My research lies at the intersection of immersive technologies, curriculum theory, and human-computer interaction.
 
