@@ -11,3 +11,6 @@ doi: https://doi.org/10.1145/3715336.3735787
 arxiv: https://arxiv.org/abs/2505.18112
 highlight: true
 award: "**🏅 DIS 2025 Best Paper Honourable Mention (Top 5%)**"
+---
+
+This paper was selected for a **Best Paper Honourable Mention Award** (Top 5%) at the ACM DIS 2025 Conference, recognizing its contribution to the field of HCI, cultural heritage, and immersive systems.
