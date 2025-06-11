@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: EDS285H5F The Future of EdTech"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2024-fall-eds285
+venue: "University of Toronto Mississauga"
+date: 2024-09-01
+location: "Mississauga, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for **EDS285H5F: The Future of EdTech**, an undergraduate course examining the pedagogical implications of emerging technologies including AI and immersive tools in active learning classrooms.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Responsibilities
+- Graded multiple types of assignments, including EdTech Insight, Participation Homework, and Immersive Project, with timely and constructive feedback.
+- Co-developed and refined rubrics to ensure transparency and fairness in assessment.
+- Provided academic support through email communication and in-person consultations.
+- Attended weekly coordination meetings with the course instructor to align teaching and grading approaches.
